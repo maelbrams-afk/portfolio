@@ -106,6 +106,11 @@ function App() {
           <p className="project-lead">Formation et centres d'intérêt</p>
           <p>Je m'intéresse particulièrement au développement web, aux jeux vidéo et aux design rendu des sites.</p>
           <p>Ce portfolio présente mes centres d'intérêt et les compétences que je développe à travers des projets pratiques.</p>
+          <p>
+            <a className="text-link" href="https://www.canva.com/design/DAHA0oyPxTs/0GTE-r7LsEntfiOx3qkS5Q/edit" target="_blank" rel="noreferrer">
+              CONSULTER MON CV <span aria-hidden="true">↗</span>
+            </a>
+          </p>
         </div>
 
         <div className="profile-brief" aria-label="Centres d'intérêt">
