@@ -1,0 +1,13 @@
+node_modules/
+client/dist/
+debug.log
+.env
+.env.*
+!.env.example
+
+/resources/
+/client/public/
+/client/game.html
+/client/src/Game.jsx
+/client/src/game-main.jsx
+/stylesheets/main.css
