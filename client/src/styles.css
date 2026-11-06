@@ -386,7 +386,8 @@ select {
 .hero-main-image {
   background-image:
     linear-gradient(rgba(7, 9, 6, 0.2), rgba(7, 9, 6, 0.08) 42%, rgba(7, 9, 6, 0.35)),
-    repeating-linear-gradient(0deg, rgba(211, 225, 176, 0.04) 0, rgba(211, 225, 176, 0.04) 1px, transparent 1px, transparent 4px);
+    repeating-linear-gradient(0deg, rgba(211, 225, 176, 0.04) 0, rgba(211, 225, 176, 0.04) 1px, transparent 1px, transparent 4px),
+    url("/img/Capture d'écran 2026-11-06 150427.png");
 }
 
 .screen-crosshair {
@@ -642,6 +643,7 @@ select {
   background:
     repeating-linear-gradient(0deg, rgba(211, 225, 176, 0.04) 0, rgba(211, 225, 176, 0.04) 1px, transparent 1px, transparent 4px),
     radial-gradient(ellipse at center, rgba(74, 111, 130, 0.28), transparent 68%),
+    url("/img/Capture d'écran 2026-10-08 170754.png") center / cover no-repeat,
     #080a08;
 }
 
